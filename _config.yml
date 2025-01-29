@@ -1,9 +1,9 @@
-title: Nighthawk Pages 
-description: "Class of 2025"
-owner_name: John Mortensen
-github_username: nighthawkcoders
-github_repo: "student_2025" 
-baseurl: "/student_2025"
+title: BeLead
+description: "Offical site of BeLead non-profit"
+owner_name: Zhengji Li
+github_username: xinjiav2
+github_repo: "BeLead" 
+baseurl: "/BeLead"
 future: true
 remote_theme: jekyll/minima
 minima:
